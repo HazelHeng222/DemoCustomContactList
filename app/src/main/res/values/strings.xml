@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Custom Contact List</string>
+    <string name="name">Name</string>
+    <string name="countryCode">Code</string>
+    <string name="phoneNum">Phone Number</string>
+
+</resources>
